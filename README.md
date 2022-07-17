@@ -38,25 +38,25 @@
 
 --------
 
-![「Rʟxғʟʏ⁴̅⁰͍⁴̵」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![「TEAMCREATORLOKPADI」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <details>
     <summary>「⚙️」 <b>GitHub Stats</b></summary><br/>
 
   <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-profile-trophy.vercel.app/?username=Rlxfly&theme=tokyonight" /></a>
+  <a href="https://github.com/creator-lokpadi"><img src="https://github-profile-trophy.vercel.app/?username=Rlxfly&theme=tokyonight" /></a>
 </p>
   
    <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl" /></a>
+  <a href="https://github.com/creator-lokpadi"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl" /></a>
 </p>
 
   <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rlxfly&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/creator-lokpadi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rlxfly&theme=tokyonight&layout=compact" /></a>
 </p>
   
   <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
+  <a href="https://github.com/creator-lokpadi"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
 </p>
   
 
