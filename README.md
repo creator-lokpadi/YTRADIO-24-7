@@ -9,11 +9,11 @@
 --------
 
 
-> * Just newbie
-> * I like learning programming language.
-> * Live in Klaten, Central Java, Indonesia
-> * I'm 15 y.o.
-> * B'day 10 Nov
+> * Masih nubie
+> * Suka mempelajari bahasa pemrograman 
+> * Tinggal di lokpadi,Satui,tanah bumbu, Kalimantan Selatan 
+> * Umur 20 (2022)
+> * Ultah? 24 sept
 > ,If you want know 
 > * Commit almost 'every' day
 > * Allways on Whatsapp
@@ -23,7 +23,6 @@
 `Currently learning`
 
 ![Re7](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Re7](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
 ![Re7](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![Re7](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Re7](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
@@ -31,10 +30,6 @@
 ![Re7](https://img.shields.io/badge/-Cs-black?style=flat-square&logo=csharp)
 ![Re7](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Re7](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Re7](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
-![Re7](https://img.shields.io/badge/-Perl-black?style=flat-square&logo=perl)
-![Re7](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
-![Re7](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
 --------
 
