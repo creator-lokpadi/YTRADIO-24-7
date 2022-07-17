@@ -80,5 +80,5 @@
 
 ## Visitor 
 <p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@:rlxfly?theme=rule34">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:creator-lokpadi?theme=rule34">
 </p>
