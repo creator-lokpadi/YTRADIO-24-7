@@ -1,18 +1,89 @@
-# YouTube live radio sample
+<h1 align='center'> Hi there!</h1>
 
-Have you ever come across a YouTube video that endlessly loops a playlist of music? This post outlines a way to launch such a live radio using `ffmpeg`, the swiss army knife when it comes to any kind of media streaming or transformation, and a simple Docker image. You can even host the entire setup for free on services like Heroku (using "free" dyno hours). More information can be found in [this blog post](https://blaubart.com/en/blog/how-to-set-up-a-24-7-live-stream-radio-on-youtube-for-free).
+<p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://telegra.ph/file/d538359feaa71ca83e0a2.jpg" /></a>
+</p>
 
-# Deploy
+<h1 align='center'> ❤️ </h1>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+--------
 
-# Setup
 
-* Make sure you are allowed to create live streams on YouTube. 
-* Fork this repository, swap out the background image to your liking, and put all MP3 files to be played in the `mp3` folder. They will be shuffled and looped infinitely.
-* Create and configure a broadcast with [`enableAutoStop = false`](https://developers.google.com/youtube/v3/live/docs/liveBroadcasts#contentDetails.enableAutoStop). At the time of writing, using the UI, this is only possible by scheduling a stream in the future (otherwise the flag is set to `true`). Alternatively, you can also use the Live Streaming API to do this.
-* Deploy this app (for instance, using the Heroku deploy button above) to a host of your choice. Set the `YOUTUBE_KEY` environment variable to the stream key given to you in the previous step.
+> * Just newbie
+> * I like learning programming language.
+> * Live in Klaten, Central Java, Indonesia
+> * I'm 15 y.o.
+> * B'day 10 Nov
+> ,If you want know 
+> * Commit almost 'every' day
+> * Allways on Whatsapp
+> * `Thx`
+--------
 
-# Attributions
+`Currently learning`
 
-The MP3 in this repository ("The Elevator Bossa Nova") is being used under the Free License of: https://www.bensound.com/royalty-free-music/track/the-elevator-bossa-nova
+![Re7](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Re7](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Re7](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![Re7](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Re7](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![Re7](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Re7](https://img.shields.io/badge/-Cs-black?style=flat-square&logo=csharp)
+![Re7](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Re7](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Re7](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
+![Re7](https://img.shields.io/badge/-Perl-black?style=flat-square&logo=perl)
+![Re7](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
+![Re7](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+
+--------
+
+![「Rʟxғʟʏ⁴̅⁰͍⁴̵」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<details>
+    <summary>「⚙️」 <b>GitHub Stats</b></summary><br/>
+
+  <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-profile-trophy.vercel.app/?username=Rlxfly&theme=tokyonight" /></a>
+</p>
+  
+   <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl" /></a>
+</p>
+
+  <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rlxfly&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+  <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
+</p>
+  
+
+</details>
+
+---------
+---------
+
+<details>
+    <summary>「🧧」 <b>Follow Me On</b></summary><br/>
+<p align="center">
+  <a href="https://www.instagram.com/rlxfly.uw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/6283820073017"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Rlxfly" /></a>
+</p>
+
+</details>
+
+  
+
+## Visitor 
+<p align="center">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:rlxfly?theme=rule34">
+</p>
