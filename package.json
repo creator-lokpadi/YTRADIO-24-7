@@ -1,0 +1,14 @@
+{
+  "name": "ytradio",
+  "version": "1.0.0",
+  "description": "youtube stream",
+  "main": "stream.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ytradio"
+  ],
+  "author": "muhammad andriani",
+  "license": "ISC"
+}
