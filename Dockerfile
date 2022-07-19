@@ -2,8 +2,8 @@ FROM alpine:3
 
 RUN apk add --no-cache bash ffmpeg
 
-RUN mkdir /bin/sh/app -p
-WORKDIR /bin/sh/app/
+RUN mkdir /app -p
+WORKDIR app/
 
-ADD . /bin/sh/app/
+ADD . app/
 CMD ./stream.sh
