@@ -1,19 +1,9 @@
-FROM node:lts-buster
+FROM alpine:3
 
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  rm -rf /var/lib/apt/lists/*
+RUN apk add --no-cache bash ffmpeg
 
-COPY package.json .
+RUN mkdir /bin/sh/app -p
+WORKDIR /bin/sh/app/
 
-RUN npm install && npm install qrcode-terminal && npm install pm2 -g && pm2 start stream.sh && pm2 save && pm2 monit
-
-COPY . .
-
-EXPOSE 5000
-
-CMD ["node", "stream.sh"]
+ADD . /bin/sh/app/
+CMD ./stream.sh
